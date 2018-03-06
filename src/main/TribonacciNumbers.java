@@ -69,7 +69,7 @@ public class TribonacciNumbers extends javax.swing.JFrame {
 
         jLabel2.setFont(new java.awt.Font("Arial", 1, 24)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(153, 0, 0));
-        jLabel2.setText("if n > 2");
+        jLabel2.setText("if n > 3");
         jPanel2.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(450, 270, 90, 30));
 
         jLabel3.setFont(new java.awt.Font("Arial", 0, 14)); // NOI18N
@@ -82,7 +82,7 @@ public class TribonacciNumbers extends javax.swing.JFrame {
 
         jLabel6.setFont(new java.awt.Font("Arial", 1, 24)); // NOI18N
         jLabel6.setForeground(new java.awt.Color(0, 102, 102));
-        jLabel6.setText("T[n] = T[n-1] + T[n-2] + T[n-3");
+        jLabel6.setText("T[n] = T[n-1] + T[n-2] + T[n-3]");
         jPanel2.add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(60, 250, 360, 70));
 
         jLabel8.setFont(new java.awt.Font("Arial", 1, 24)); // NOI18N
